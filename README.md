@@ -139,5 +139,23 @@ CALCULATE(
 
 ## Extraits du tableau de bord :
 
+Accueil :
 
+![Illustration du projet](<Captures d'écran/Accueil.png>)
+
+Pilotage des ventes :
+
+![Illustration du projet](<Captures d'écran/Pilotage_des_ventes.png>)
+
+Pilotage des Finances :
+
+![Illustration du projet](<Captures d'écran/Ressources_Humaines.png>)
+
+Pilotage des Finances :
+
+![Illustration du projet](<Captures d'écran/Ressources_Humaines.png>)
+
+Pilotage de la logistique :
+
+![Illustration du projet](<Captures d'écran/Enregistrement_Pilotage_Logistique.mp4>)
 
