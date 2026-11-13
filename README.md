@@ -136,3 +136,8 @@ CALCULATE(
     )
 )
 ```
+
+## Extraits du tableau de bord :
+
+
+
