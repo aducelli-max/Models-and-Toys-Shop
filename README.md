@@ -141,21 +141,21 @@ CALCULATE(
 
 Accueil :
 
-![Illustration du projet](<Captures d'écran/Accueil.png>)
+![Page d'accueil du dashboard](Captures%20d%E2%80%99%C3%A9cran/Accueil.png)
 
 Pilotage des ventes :
 
-![Illustration du projet](<Captures d'écran/Pilotage_des_ventes.png>)
+![Dashboard de pilotage des ventes](Captures%20d%E2%80%99%C3%A9cran/Pilotage%20des%20ventes.png)
 
 Pilotage des Finances :
 
-![Illustration du projet](<Captures d'écran/Ressources_Humaines.png>)
+![Dashboard de pilotage des finances](Captures%20d%E2%80%99%C3%A9cran/Finance.png)
 
-Pilotage des Finances :
+Pilotage des Ressources Humaines :
 
-![Illustration du projet](<Captures d'écran/Ressources_Humaines.png>)
+![Dashboard de pilotage des ressources humaines](Captures%20d%E2%80%99%C3%A9cran/Ressources_Humaines.png)
 
 Pilotage de la logistique :
 
-![Illustration du projet](<Captures d'écran/Enregistrement_Pilotage_Logistique.mp4>)
+[Voir l'enregistrement vidéo](Captures%20d%E2%80%99%C3%A9cran/Enregistrement%20Pilotage%20Logistique.mp4)
 
